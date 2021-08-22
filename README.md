@@ -3,7 +3,7 @@
 
 <p align="center">
  <a href="https://github.com/Abanoub-20180003/Data-Modeling-with-PostgreSQL">
-  <img src="./images/cassandralogo.png" alt="Logo" width="200" height="200">
+  <img src="./images/postgresSQLlogo.png" alt="Logo" width="200" height="200">
  </a>
  <h3 align="center">Data Modeling ETL with PostgreSQL</h3>
  <p align="center">
