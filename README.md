@@ -118,5 +118,5 @@ Follow the steps to extract and load the data into the data model.
 ## Contact
 Abanoub Kamal - abanoubkamalattia@gmail
 
-Project Link: https://github.com/Abanoub-20180003/Data-Modeling-with-Apache-Cassandr
+<!-- Project Link: https://github.com/Abanoub-20180003/Data-Modeling-with-Apache-Cassandr -->
 
